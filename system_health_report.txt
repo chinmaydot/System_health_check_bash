@@ -20,3 +20,7 @@ none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
 none            3.9G   76K  3.9G   1% /mnt/wslg/doc
 C:\             475G  171G  305G  36% /mnt/c
 tmpfs           781M   16K  781M   1% /run/user/1000
+=== Memory Usage ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       603Mi       7.0Gi       3.0Mi       300Mi       7.0Gi
+Swap:          2.0Gi          0B       2.0Gi
